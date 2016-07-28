@@ -1,0 +1,13 @@
+{
+  "appname": "WeSellShirts",
+  "ocscope": "FullAccess DevCenterImpersonate BuyerAdmin BuyerReader DevCenterWebHookAdmin ProductAdmin ProductReader BuyerUserAdmin OrderAdmin MeAdmin MeXpAdmin",
+  "clientid": "A69DBF4C-BF97-4E6F-992A-8DEA9F00C1C3",
+  "buyerid": "1234",
+  "environment": "prod",
+  "base": {
+    "left":true,
+    "right":false,
+    "top":true,
+    "bottom":false
+  }
+}
